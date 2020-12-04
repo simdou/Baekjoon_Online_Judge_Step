@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>no10818_Min_and_Max</AssemblyName>
+    <RootNamespace>no10818_Min_and_Max</RootNamespace>
+  </PropertyGroup>
+
+</Project>
